@@ -1,0 +1,52 @@
+[
+    {
+        "Item Purchased": "Pants",
+        "Purchase Count": 171,
+        "Avg Purchase Amount": 59.005847953216374
+    },
+    {
+        "Item Purchased": "Jewelry",
+        "Purchase Count": 171,
+        "Avg Purchase Amount": 58.538011695906434
+    },
+    {
+        "Item Purchased": "Blouse",
+        "Purchase Count": 171,
+        "Avg Purchase Amount": 60.87719298245614
+    },
+    {
+        "Item Purchased": "Shirt",
+        "Purchase Count": 169,
+        "Avg Purchase Amount": 61.13609467455621
+    },
+    {
+        "Item Purchased": "Dress",
+        "Purchase Count": 166,
+        "Avg Purchase Amount": 62.16867469879518
+    },
+    {
+        "Item Purchased": "Sweater",
+        "Purchase Count": 164,
+        "Avg Purchase Amount": 57.69512195121951
+    },
+    {
+        "Item Purchased": "Jacket",
+        "Purchase Count": 163,
+        "Avg Purchase Amount": 56.74233128834356
+    },
+    {
+        "Item Purchased": "Sunglasses",
+        "Purchase Count": 161,
+        "Avg Purchase Amount": 59.93167701863354
+    },
+    {
+        "Item Purchased": "Coat",
+        "Purchase Count": 161,
+        "Avg Purchase Amount": 57.608695652173914
+    },
+    {
+        "Item Purchased": "Belt",
+        "Purchase Count": 161,
+        "Avg Purchase Amount": 59.84472049689441
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "category": "cosmetics",
+        "sum_quantity": 14606,
+        "min_quantity": 527,
+        "max_quantity": 1374,
+        "avg_quantity": 859.1764705882352
+    },
+    {
+        "category": "fruit",
+        "sum_quantity": 14486,
+        "min_quantity": 642,
+        "max_quantity": 1275,
+        "avg_quantity": 965.7333333333333
+    },
+    {
+        "category": "tools",
+        "sum_quantity": 14673,
+        "min_quantity": 488,
+        "max_quantity": 1291,
+        "avg_quantity": 917.0625
+    },
+    {
+        "category": "Ереван",
+        "sum_quantity": 55,
+        "min_quantity": 55,
+        "max_quantity": 55,
+        "avg_quantity": 55.0
+    },
+    {
+        "category": "Куэнка",
+        "sum_quantity": 22,
+        "min_quantity": 22,
+        "max_quantity": 22,
+        "avg_quantity": 22.0
+    }
+]

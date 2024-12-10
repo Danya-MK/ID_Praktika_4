@@ -1,0 +1,42 @@
+[
+    {
+        "category": "cosmetics",
+        "sum_price": 473.099075,
+        "min_price": -17.0,
+        "max_price": 96.38200000000002,
+        "avg_price": 27.829357352941177,
+        "count": 17
+    },
+    {
+        "category": "fruit",
+        "sum_price": 519.62562,
+        "min_price": -15.0,
+        "max_price": 96.40400000000001,
+        "avg_price": 34.641708,
+        "count": 15
+    },
+    {
+        "category": "tools",
+        "sum_price": 272.25884941144,
+        "min_price": -8.0,
+        "max_price": 97.90274400000001,
+        "avg_price": 17.016178088215,
+        "count": 16
+    },
+    {
+        "category": "Ереван",
+        "sum_price": 94631.91725085696,
+        "min_price": 94631.91725085696,
+        "max_price": 94631.91725085696,
+        "avg_price": 94631.91725085696,
+        "count": 1
+    },
+    {
+        "category": "Куэнка",
+        "sum_price": 42283.515043860476,
+        "min_price": 42283.515043860476,
+        "max_price": 42283.515043860476,
+        "avg_price": 42283.515043860476,
+        "count": 1
+    }
+]
